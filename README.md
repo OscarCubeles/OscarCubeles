@@ -5,8 +5,9 @@
 
 ### Frontend & Backend
 
-- [angular-restaurant-app](https://github.com/OscarCubeles/angular-restaurant-app): A Single Page Application developed in angular.
 - [hundopt](https://github.com/OscarCubeles/hundopt): A flutter and firebase project to solve the problem of dog adoption in Spain.
+- [angular-restaurant-app](https://github.com/OscarCubeles/angular-restaurant-app): A Single Page Application developed in angular.
+
 
 
 ### Algorithms, Data Structures & Data Analysis
