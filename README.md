@@ -8,7 +8,8 @@
 
 ## Master's Coursework
 
-- [AVPR Coursework](https://github.com/OscarCubeles/artificial-vision-pattern-recognition): Practical labs covering image filtering, edge and corner detection, mathematical morphology, feature extraction and matching, texture classification, deep image classification with ResNet, crack segmentation with U-Net, and circle detection.
+- [Computer Vision and Pattern Recognition Coursework](https://github.com/OscarCubeles/artificial-vision-pattern-recognition): Practical labs covering image filtering, edge and corner detection, mathematical morphology, feature extraction and matching, texture classification, deep image classification with ResNet, crack segmentation with U-Net, and circle detection.
+- [Deep Learning Coursework]([https://github.com/OscarCubeles/artificial-vision-pattern-recognition](https://github.com/OscarCubeles/Deep-Learning-Projects)): Projects covering artwork classification with CNNs and Vision Transformers, traffic-sign recognition, and open-set/out-of-distribution detection using autoencoders.
 
 ## Bachelor's Coursework
 
