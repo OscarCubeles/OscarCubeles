@@ -10,6 +10,9 @@
 
 - [Computer Vision and Pattern Recognition Coursework](https://github.com/OscarCubeles/artificial-vision-pattern-recognition): Practical labs covering image filtering, edge and corner detection, mathematical morphology, feature extraction and matching, texture classification, deep image classification with ResNet, crack segmentation with U-Net, and circle detection.
 - [Deep Learning Coursework](https://github.com/OscarCubeles/Deep-Learning-Projects): Projects covering artwork classification with CNNs and Vision Transformers, traffic-sign recognition, and open-set/out-of-distribution detection using autoencoders.
+- [Human Language Technology](https://github.com/OscarCubeles/human-language-technology): A natural language processing (NLP) project studying semantic textual similarity using interpretable linguistic features and traditional machine-learning regression models.
+- [Machine Learning](https://github.com/OscarCubeles/Machine-Learning): Coursework for an Introduction to Machine Learning course, covering supervised classification with k-NN and SVM, unsupervised clustering with K-Means, OPTICS, Spectral Clustering, and Fuzzy C-Means, plus dimensionality reduction with PCA. Includes preprocessing, cross-validation, evaluation, and visualization using real-world datasets.
+- [Computational Intelligence](https://github.com/OscarCubeles/Computational-Intelligence): Computational intelligence coursework covering genetic algorithms, CNN-based image classification, and fuzzy control systems.
 
 ## Bachelor's Coursework
 
