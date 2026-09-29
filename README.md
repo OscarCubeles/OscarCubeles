@@ -4,36 +4,36 @@
 ## Theses
 
 - **Master's thesis:** [pepper-motion-imitation](https://github.com/OscarCubeles/pepper-motion-imitation) - Real-time upper-body human-to-robot motion imitation for the SoftBank Pepper robot.
-- **Bachelor's thesis:** [hundopt](https://github.com/OscarCubeles/hundopt) — A Flutter and Firebase application designed to support dog adoption in Spain.
+- **Bachelor's thesis:** [hundopt](https://github.com/OscarCubeles/hundopt) — A **Flutter** and **Firebase** application designed to support dog adoption in Spain.
 
 ## Master's Coursework
 
-- [Computer Vision and Pattern Recognition Coursework](https://github.com/OscarCubeles/artificial-vision-pattern-recognition): Practical labs covering image filtering, edge and corner detection, mathematical morphology, feature extraction and matching, texture classification, deep image classification with ResNet, crack segmentation with U-Net, and circle detection.
-- [Deep Learning Coursework](https://github.com/OscarCubeles/Deep-Learning-Projects): Projects covering artwork classification with CNNs and Vision Transformers, traffic-sign recognition, and open-set/out-of-distribution detection using autoencoders.
-- [Human Language Technology](https://github.com/OscarCubeles/human-language-technology): A natural language processing (NLP) project studying semantic textual similarity using interpretable linguistic features and traditional machine-learning regression models.
-- [Machine Learning](https://github.com/OscarCubeles/Machine-Learning): Coursework for an Introduction to Machine Learning course, covering supervised classification with k-NN and SVM, unsupervised clustering with K-Means, OPTICS, Spectral Clustering, and Fuzzy C-Means, plus dimensionality reduction with PCA. Includes preprocessing, cross-validation, evaluation, and visualization using real-world datasets.
-- [Computational Intelligence](https://github.com/OscarCubeles/Computational-Intelligence): Computational intelligence coursework covering genetic algorithms, CNN-based image classification, and fuzzy control systems.
+- [Computer Vision and Pattern Recognition Coursework](https://github.com/OscarCubeles/artificial-vision-pattern-recognition): Practical labs covering image filtering, edge and corner detection, mathematical morphology, feature extraction and matching, texture classification, deep image classification with **ResNet**, crack segmentation with **U-Net**, and circle detection.
+- [Deep Learning Coursework](https://github.com/OscarCubeles/Deep-Learning-Projects): Projects covering artwork classification with **CNNs** and **Vision Transformers**, traffic-sign recognition, and open-set/out-of-distribution detection using **autoencoders**.
+- [Human Language Technology](https://github.com/OscarCubeles/human-language-technology): A **natural language processing (NLP)** project studying **semantic textual similarity** using interpretable linguistic features and traditional machine-learning regression models.
+- [Machine Learning](https://github.com/OscarCubeles/Machine-Learning): Coursework for an Introduction to Machine Learning course, covering supervised classification with **k-NN** and **SVM**, unsupervised clustering with **K-Means**, **OPTICS**, **Spectral Clustering**, and **Fuzzy C-Means**, plus dimensionality reduction with **PCA**. Includes preprocessing, cross-validation, evaluation, and visualization using real-world datasets.
+- [Computational Intelligence](https://github.com/OscarCubeles/Computational-Intelligence): Computational intelligence coursework covering **genetic algorithms**, **CNN-based image classification**, and **fuzzy control systems**.
 
 ## Bachelor's Coursework
 
 ### Algorithms, Data Structures & Data Analysis
 
 - [Sorting-Algorithms](https://github.com/OscarCubeles/Sorting-Algorithms): Implementations of various sorting algorithms.
-- [Data-Structures-Java](https://github.com/OscarCubeles/Data-Structures-Java): Implementations of various data structures in Java.
-- [PizziSalle](https://github.com/OscarCubeles/PizziSalle): A Java terminal-based pizza ordering system that implements various design patterns.
-- [DataMining-DataProcessing](https://github.com/OscarCubeles/DataMining-DataProcessing): Implementations of K-NN classifiers, PCA, and SVD in a Jupyter Notebook.
+- [Data-Structures-Java](https://github.com/OscarCubeles/Data-Structures-Java): Implementations of various data structures in **Java**.
+- [PizziSalle](https://github.com/OscarCubeles/PizziSalle): A **Java** terminal-based pizza ordering system that implements various **design patterns**.
+- [DataMining-DataProcessing](https://github.com/OscarCubeles/DataMining-DataProcessing): Implementations of **K-NN classifiers**, **PCA**, and **SVD** in a **Jupyter Notebook**.
 
 ### Operating Systems & Filesystems
 
-- [rpcChat](https://github.com/OscarCubeles/rpcChat): A low-level C implementation of a real-time, multi-client server chat using RPC.
-- [Filesystem-Management](https://github.com/OscarCubeles/Filesystem-Management): A C program for managing EXT and FAT filesystems.
-- [RPI-LKM](https://github.com/OscarCubeles/RPI-LKM): A Linux kernel module for the Raspberry Pi.
-- [OperatingSystems-in-C](https://github.com/OscarCubeles/OperatingSystems-in-C): Implementations of pipes, forks, threads, and command execution in C to manage client-server communications.
+- [rpcChat](https://github.com/OscarCubeles/rpcChat): A low-level **C** implementation of a real-time, multi-client server chat using **RPC**.
+- [Filesystem-Management](https://github.com/OscarCubeles/Filesystem-Management): A **C** program for managing **EXT** and **FAT** filesystems.
+- [RPI-LKM](https://github.com/OscarCubeles/RPI-LKM): A **Linux kernel module** for the **Raspberry Pi**.
+- [OperatingSystems-in-C](https://github.com/OscarCubeles/OperatingSystems-in-C): Implementations of pipes, forks, threads, and command execution in **C** to manage client-server communications.
 
 ## Personal Projects
 
-- [angular-restaurant-app](https://github.com/OscarCubeles/angular-restaurant-app): A single-page application developed in Angular.
-- [sam-3d-body](https://github.com/OscarCubeles/sam-3d-body): A fork of SAM 3D Body used for testing as part of my master's thesis.
+- [angular-restaurant-app](https://github.com/OscarCubeles/angular-restaurant-app): A single-page application developed in **Angular**.
+- [sam-3d-body](https://github.com/OscarCubeles/sam-3d-body): A fork of **SAM 3D Body** used for testing as part of my master's thesis.
 - [AdventOfCode2023](https://github.com/OscarCubeles/AdventOfCode2023): Solutions to the Advent of Code 2023 programming challenges.
 - [AdventOfCode2022](https://github.com/OscarCubeles/AdventOfCode2022): Solutions to the Advent of Code 2022 programming challenges.
 
