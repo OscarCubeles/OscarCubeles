@@ -3,7 +3,7 @@
 
 ## Theses
 
-- **Master's thesis:** [pepper-motion-imitation](https://github.com/OscarCubeles/pepper-motion-imitation) - Real-time upper-body human-to-robot motion imitation for the SoftBank Pepper robot.
+- **Master's thesis:** [pepper-motion-imitation](https://github.com/OscarCubeles/pepper-motion-imitation) - Real-time upper-body human-to-robot motion imitation for the **SoftBank Pepper** robot.
 - **Bachelor's thesis:** [hundopt](https://github.com/OscarCubeles/hundopt) — A **Flutter** and **Firebase** application designed to support dog adoption in Spain.
 
 ## Master's Coursework
